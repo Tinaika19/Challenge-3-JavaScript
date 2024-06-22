@@ -32,7 +32,7 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 - JavaScript<br>
 
 ## Screenshot
-![Website screenshot](assets/Employee Payroll Tracker.JPG)
+![Website screenshot](assets/Employee_Payroll_Tracker.JPG)
 
 ## License
 This project is licensed under the MIT License.
