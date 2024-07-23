@@ -1,6 +1,6 @@
 
 
-# Challenge 3 (JavaScript): Employee Payroll Tracker
+#  Employee Payroll Tracker
 
 ## Description
 This application enables a payroll manager to view and manage employee payroll data. The app features dynamically updated HTML and CSS powered by JavaScript.
